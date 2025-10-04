@@ -1,4 +1,4 @@
-package com.discovercalgaryeagleguide
+package com.discover.calgary.eagle.guide
 
 import android.app.Application
 import com.facebook.react.PackageList

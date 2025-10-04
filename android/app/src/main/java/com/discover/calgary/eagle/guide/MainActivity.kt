@@ -1,4 +1,4 @@
-package com.discovercalgaryeagleguide
+package com.discover.calgary.eagle.guide
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
